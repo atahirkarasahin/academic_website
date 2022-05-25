@@ -4,16 +4,16 @@ abstract: Rotary encoders, which are mainly used to feedback the angle of the ro
 # - Equal contribution
 # - Equal contribution
 authors:
-- Ali Tahir Karasahin
-date: "2018-07-01T00:00:00Z"
-doi: ""
+- Ali Tahir Karasahin, Mehmet Karali, Mehmet Akif Erismis, Oguzhan Keles, Mustafa Kocak
+date: "2018-01-13T00:00:00Z"
+doi: "https://doi.org/10.1007/s00202-018-0677-9"
 featured: true
 image: 
   #caption: ""
   focal_point: ""
   preview_only: false
-projects:
-- example
+# projects:
+# - example2
 publication: Electrical Engineering
 publication_short: ""
 publication_types:
@@ -25,7 +25,7 @@ tags: []
 title: A new capacitive rotary encoder based on analog synchronous demodulation
 # url_code: ""
 # url_dataset: ""
-# url_pdf: ""
+url_pdf: "https://link.springer.com/article/10.1007/s00202-018-0677-9"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""

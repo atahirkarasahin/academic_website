@@ -14,7 +14,7 @@ organizations:
     url: https://www.karabuk.edu.tr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm PhD student at Necmettin Erbakan University, working with Prof. Dr. Mehmet Karali. My research focuses on systems dynamics, control theory and application. I'm interested in new electric vehicle technology.
+bio: I'm Researcher Assistant at Karabuk University. I'm PhD student at Necmettin Erbakan University, working with Prof. Dr. Mehmet Karali. My research focuses on systems dynamics, control theory and application. I'm interested in new electric vehicle technology.
 
 # Interests to show in About widget
 interests:
@@ -43,9 +43,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=F1QthcIAAAAJ&hl=tr&oi=ao
@@ -54,10 +51,10 @@ social:
     link: https://github.com/atahirkarasahin
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ali-tahir-karasahin-06893181/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# To use: copy your resume to #`static/uploads/resume.pdf`, enable `ai` icons in #`params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -70,6 +67,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm PhD student at Necmettin Erbakan University, working with Prof. Dr. Mehmet Karali. My research focuses on systems dynamics, control theory and application. I'm interested in new electric vehicle technology.
+I'm Researcher Assistant at Karabuk University. I'm PhD student at Necmettin Erbakan University, working with Prof. Dr. Mehmet Karali. My research focuses on systems dynamics, control theory and application. I'm interested in new electric vehicle technology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

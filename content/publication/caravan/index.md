@@ -3,27 +3,27 @@ abstract: As the population increases, is more and more increasing the number of
 authors:
 - Ali Tahir Karasahin
 - Abdullah Erdal Tumer
-date: "2020-07-01T00:00:00Z"
+date: "2020-06-30T00:00:00Z"
 doi: ""
 featured: true
 image: 
   #caption: ""
   focal_point: ""
   preview_only: false
-projects:
-- example
+# projects:
+# - example
 publication: MANAS Journal of Engineering
 publication_short: ""
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-06-30T00:00:00Z"
 slides: example
 summary: Real time traffic signal timing approach based on artificial neural network
 tags: []
 title: Real time traffic signal timing approach based on artificial neural network
 # url_code: ""
 # url_dataset: ""
-# url_pdf: ""
+url_pdf: "https://dergipark.org.tr/en/pub/mjen/issue/55261/741569"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""

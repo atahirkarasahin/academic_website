@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Robotic
+      tag: Robotic
+    - name: Fuzzy Logic
+      tag: Fuzzy Logic
+    - name: Industrial Automation
+      tag: Industrial Automation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
