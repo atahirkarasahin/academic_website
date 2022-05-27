@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 #'https://tahirkarasahin.netlify.app/' # Website URL
 #'
 title: Ali Tahir Karasahin # Website name
-baseURL: 'https://tahirkarasahin.github.io' # Website URL
+baseURL: 'https://tahirkarasahin.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
