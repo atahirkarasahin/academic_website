@@ -9,7 +9,7 @@ towed off-road caravan is used in field tests. The developed controller is shown
 it performs yaw stabilisation effectively in field tests.
 authors:
 - Ali Tahir Karasahin, Mehmet Karali
-date: "2022-xx-xxT00:00:00Z"
+date: "2022-06-30T00:00:00Z"
 doi: ""
 featured: true
 image: 
