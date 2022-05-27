@@ -3,9 +3,10 @@ theme: "starter-hugo-academic"
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
+#'https://tahirkarasahin.netlify.app/' # Website URL
+#'
 title: Ali Tahir Karasahin # Website name
-baseURL: 'https://tahirkarasahin.netlify.app/' # Website URL
+baseURL: 'https://tahirkarasahin.github.io' # Website URL
 
 ############################
 ## LANGUAGE
