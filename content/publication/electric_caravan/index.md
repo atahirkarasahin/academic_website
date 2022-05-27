@@ -8,8 +8,7 @@ CarSim environments. After the simulation studies is completed, the developed co
 towed off-road caravan is used in field tests. The developed controller is shown that
 it performs yaw stabilisation effectively in field tests.
 authors:
-- Ali Tahir Karasahin
-- Mehmet Karali
+- Ali Tahir Karasahin, Mehmet Karali
 date: "2022-xx-xxT00:00:00Z"
 doi: ""
 featured: true
