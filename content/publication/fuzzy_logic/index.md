@@ -1,6 +1,5 @@
 ---
-abstract: asdasdas
-adsasdsa
+abstract: asdasdas adsasdsa
 authors:
 - Ali Tahir Karasahin
 - Abdullah Erdal Tumer
