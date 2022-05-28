@@ -37,7 +37,7 @@ content:
   # coordinates:
   #   latitude: '41.206356245068335'
   #   longitude: '32.65967299801555'
-  directions: Faculty of EngineeringRoom Number:314
+  directions: Faculty of Engineering Room Number:314
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
