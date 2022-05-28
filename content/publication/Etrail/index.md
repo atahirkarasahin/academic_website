@@ -6,7 +6,7 @@ abstract: Instability modes in vehicle-caravan systems reveal the necessity of a
 authors:
 - Ali Tahir Karasahin, Mehmet Karali
 date: "2022-05-27T00:00:00Z"
-doi: "https://www.tandfonline.com/journals/nvsd20"
+doi: ""
 featured: true
 image: 
   #caption: ""
