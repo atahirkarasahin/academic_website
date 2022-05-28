@@ -5,7 +5,7 @@ abstract: Instability modes in vehicle-caravan systems reveal the necessity of a
 # - Equal contribution
 authors:
 - Ali Tahir Karasahin, Mehmet Karali
-date: "2022-07-27T00:00:00Z"
+date: "2022-05-27T00:00:00Z"
 doi: "https://www.tandfonline.com/journals/nvsd20"
 featured: true
 image: 
@@ -18,7 +18,7 @@ publication: Vehicle System Dynamics
 publication_short: ""
 publication_types:
 - "1"
-publishDate: "2022-07-27T00:00:00Z"
+publishDate: "2022-05-27T00:00:00Z"
 slides: example
 summary: A new vehicle-self propelled caravan system using differential braking with electric in-wheel motors on the caravan [Out for review]
 tags: []
