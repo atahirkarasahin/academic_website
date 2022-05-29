@@ -18,10 +18,11 @@ bio: I'm Researcher Assistant at Karabuk University. I'm PhD student at Necmetti
 
 # Interests to show in About widget
 interests:
+  - Mechatronics
   - Fuzzy Logic Control
   - Robotics
+  - Artificial Intelligence
   - System Dynamics
-  - Embedded Systems
 
 # Education to show in About widget
 education:
