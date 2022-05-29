@@ -5,7 +5,7 @@ abstract: In this study, parameters affecting stability in vehicle-caravan syste
 # - Equal contribution
 authors:
 - Ali Tahir Karasahin, Mehmet Karali
-date: "2022-05-26T00:00:00Z"
+date: "2022-05-24T00:00:00Z"
 doi: ""
 featured: true
 image: 
@@ -18,7 +18,7 @@ publication: 2nd International Graduate Studies Congress
 publication_short: ""
 publication_types:
 - "1"
-publishDate: "2022-05-25T00:00:00Z"
+publishDate: "2022-05-24T00:00:00Z"
 slides: example
 summary: Investigation for Dynamic Stability of Vehicle-Caravan Systems (Accepted) [PhD study]
 tags: []
