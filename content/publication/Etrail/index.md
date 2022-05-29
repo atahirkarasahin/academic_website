@@ -20,9 +20,9 @@ publication_types:
 - "1"
 publishDate: "2022-05-27T00:00:00Z"
 slides: example
-summary: A new vehicle-self propelled caravan system using differential braking with electric in-wheel motors on the caravan [Out for review]
+summary: A new vehicle-self propelled caravan system using differential braking with electric in-wheel motors on the caravan (Out for review) [PhD study]
 tags: []
-title: A new vehicle-self propelled caravan system using differential braking with electric in-wheel motors on the caravan [Out for review]
+title: A new vehicle-self propelled caravan system using differential braking with electric in-wheel motors on the caravan (Out for review) [PhD study]
 # url_code: ""
 # url_dataset: ""
 url_pdf: "https://www.tandfonline.com/journals/nvsd20"
