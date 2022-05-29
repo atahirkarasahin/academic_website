@@ -68,4 +68,4 @@ email: ''
 highlight_name: true
 ---
 
-I'm Researcher Assistant at Karabuk University. I'm PhD student at Necmettin Erbakan University, working with Prof. Dr. Mehmet Karali. My research focuses on systems dynamics, control theory and application. I'm interested in the guidance, control and embedded software of autonomous systems (AUV and UAV).
+I'm Researcher Assistant at Karabuk University. I'm PhD student at Necmettin Erbakan University, working with Prof. Dr. Mehmet Karali. As my doctoral thesis, I am working on Modeling and Control of Dynamic Stability of an Novel Electric Caravan System. My research focuses on systems dynamics, control theory and application. I'm interested in the guidance, control and embedded software of autonomous systems (AUV and UAV).
