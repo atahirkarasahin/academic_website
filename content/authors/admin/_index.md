@@ -11,7 +11,7 @@ role: PhD
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Karabuk
-    url: https://www.karabuk.edu.tr/
+    url: https://www.karabuk.edu.tr
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm Researcher Assistant at Karabuk University. I'm PhD student at Necmettin Erbakan University, working with Prof. Dr. Mehmet Karali. As my doctoral thesis, I am working on Modeling and Control of Dynamic Stability of an Novel Electric Caravan System. My research focuses on systems dynamics, control theory and application. I'm interested in the guidance, control and embedded software of autonomous systems (AUV and UAV).
