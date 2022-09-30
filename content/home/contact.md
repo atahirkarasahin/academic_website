@@ -55,6 +55,8 @@ content:
 # design:
 #   columns: '2'
 design:
+  columns: '2'
+  
   background:
     # Name of image in `assets/media/`.
     image: background.jpeg
