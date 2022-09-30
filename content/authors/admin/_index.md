@@ -6,7 +6,7 @@ title: Ali Tahir Karasahin
 superuser: true
 
 # Role/position/tagline
-role: PhD
+role: PhD asda
 
 # Organizations/Affiliations to show in About widget
 organizations:
