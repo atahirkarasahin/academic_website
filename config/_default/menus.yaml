@@ -16,7 +16,6 @@ main:
   - name: Contact
     url: '#contact'
     weight: 40
-
 design:
   background:
     # Name of image in `assets/media/`.
