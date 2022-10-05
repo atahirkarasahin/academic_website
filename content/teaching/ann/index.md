@@ -10,15 +10,18 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 #slides: example
-summary: Designing, Manufacturing and Investigation of Dynamic Behaviors of a 6 Axis Industrial Automation Robot
+summary: MEM437 - Artificial Neural Networks
 tags:
-- Robotic
-title: Designing, Manufacturing and Investigation of Dynamic Behaviors of a 6 Axis Industrial Automation Robot
+- neural networks
+title: MEM437 - Artificial Neural Networks
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
 ---
-A six-axis industrial robot was carried out to examine the dynamic behavior of the robot. Within the scope of the project, various experiments were applied to the industrial robot under different scenarios. According to the obtained results, behavioral responses of the robot were obtained.
+To make students know about Artificial Intelligence technologies; To teach students the structure and functioning of artificial neural networks, to gain the ability to use artificial neural networks in solving engineering problems
 
-Supported by Necmettin Erbakan University Science Research Programs.
+Course Information: https://obs.karabuk.edu.tr/oibs/bologna/index.aspx?lang=en&curOp=showPac&curUnit=0200&curSunit=306#
+
+
+MEM437-Artificial Neural Networks Dataset Statement: https://bit.ly/3C8i0QL
