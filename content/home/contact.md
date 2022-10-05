@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: tahirkarasahin@karabuk.edu.tr
-  phone: +90 370 418 7433
+  phone: +90 370 418 7429
   address:
     street: Karabuk University Iron-Steel Campus
     city: Karabuk
@@ -37,7 +37,7 @@ content:
   # coordinates:
   #   latitude: '41.206356245068335'
   #   longitude: '32.65967299801555'
-  directions: Faculty of Engineering Room Number:314
+  directions: Faculty of Engineering Room Number:306
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
