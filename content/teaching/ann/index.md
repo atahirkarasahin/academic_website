@@ -25,3 +25,12 @@ Course Information: https://obs.karabuk.edu.tr/oibs/bologna/index.aspx?lang=en&c
 
 
 MEM437-Artificial Neural Networks Dataset Statement: https://bit.ly/3C8i0QL
+
+Example Data Set Link.1 - Tensorflow (Choose from image classification): https://bit.ly/3ED9fBp
+
+Example Data Set Link.2 - Kaggle : https://www.kaggle.com/datasets
+
+Example Data Set Link.3 - UCI ML Repository: http://archive.ics.uci.edu/ml/datasets.php
+
+All Lectures Notes: https://bit.ly/3SGaG67
+
