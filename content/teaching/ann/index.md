@@ -32,5 +32,7 @@ Example Data Set Link.2 - Kaggle : https://www.kaggle.com/datasets
 
 Example Data Set Link.3 - UCI ML Repository: http://archive.ics.uci.edu/ml/datasets.php
 
+CS50 2022 - Lecture 6 - Python: https://bit.ly/3VkjhNx
+
 All Lectures Notes: https://bit.ly/3SGaG67
 
