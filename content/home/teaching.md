@@ -29,6 +29,10 @@ content:
       tag: '*'
     - name: Neural Networks
       tag: neural networks
+    - name: Fuzzy Logic and Control
+      tag: fuzzy logic
+    - name: Computer Programming II
+      tag:  computer programming2
 
 
 design:
