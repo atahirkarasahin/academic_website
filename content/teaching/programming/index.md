@@ -23,7 +23,6 @@ To make students know about Computer programming; To teach students the structur
 
 Course Information: https://obs.karabuk.edu.tr/oibs/bologna/index.aspx?lang=en&curOp=showPac&curUnit=0200&curSunit=306#
 
-CS50 2022 - Lecture 1 - C: https://bit.ly/3Ez11cj
+CS50 2022-Lecture1-C: https://bit.ly/3Ez11cj
 
 All Lectures Notes: https://bit.ly/3XWVsLH
-

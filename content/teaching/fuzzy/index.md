@@ -23,5 +23,6 @@ To make students know about Fuzzy logic technologies; To teach students the stru
 
 Course Information: https://obs.karabuk.edu.tr/oibs/bologna/index.aspx?lang=en&curOp=showPac&curUnit=0200&curSunit=306#
 
-All Lectures Notes: https://bit.ly/3ZmNmNK
+Example Projects: https://bit.ly/3Eyu8g7
 
+All Lectures Notes: https://bit.ly/3ZmNmNK
