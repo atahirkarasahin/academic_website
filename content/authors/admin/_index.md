@@ -31,7 +31,7 @@ education:
       institution: University of Necmettin Erbakan
       year: 2022
     - course: MsC in Mechatronics Engineering
-      institution: University of Necmettin Erbakan Technology
+      institution: University of Necmettin Erbakan
       year: 2018
     - course: BSc in Mechatronics Engineering
       institution: University of Karabuk
