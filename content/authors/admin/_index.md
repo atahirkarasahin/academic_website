@@ -14,7 +14,7 @@ organizations:
     url: https://www.karabuk.edu.tr
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm Assistant Professor at Karabuk University. I completed my PhD in Mechatronics Engineering at Necmettin Erbakan University. As my doctoral thesis, I am working on Modeling and Control of Dynamic Stability of an Novel Electric Caravan System. My research focuses on systems dynamics, control theory and application. I'm interested in the guidance, control and embedded software of autonomous systems (AUV and UAV).
+bio: I'm Assistant Professor at Karabuk University. I completed my PhD in Mechatronics Engineering at Necmettin Erbakan University. As my doctoral thesis, I am working on Modeling and Control of Dynamic Stability of an novel Electric Caravan System. My research focuses on systems dynamics, control theory and application. I'm interested in the guidance, control and embedded software of autonomous systems (AUV and UAV).
 
 # Interests to show in About widget
 interests:
