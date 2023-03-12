@@ -25,4 +25,6 @@ Course Information: https://obs.karabuk.edu.tr/oibs/bologna/index.aspx?lang=en&c
 
 CS50 2022-Lecture1-C: https://bit.ly/3Ez11cj
 
+Homework List: https://bit.ly/402Ojee
+
 All Lectures Notes: https://bit.ly/3XWVsLH

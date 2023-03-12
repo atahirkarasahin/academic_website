@@ -25,4 +25,6 @@ Course Information: https://obs.karabuk.edu.tr/oibs/bologna/index.aspx?lang=en&c
 
 Example Projects: https://bit.ly/3Eyu8g7
 
+Homework List:: https://bit.ly/3yy98mo
+
 All Lectures Notes: https://bit.ly/3ZmNmNK
