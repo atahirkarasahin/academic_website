@@ -10,10 +10,10 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 #slides: example
-summary: OMD104 - Computer Programming II
+summary: OMD103 - Computer Programming I
 tags:
-- computer programming2
-title: OMD104 - Computer Programming II
+- computer programming1
+title: OMD103 - Computer Programming I
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
@@ -25,6 +25,6 @@ Course Information: https://obs.karabuk.edu.tr/oibs/bologna/index.aspx?lang=en&c
 
 CS50 2022-Lecture1-C: https://bit.ly/3Ez11cj
 
-Homework List: https://bit.ly/402Ojee
+Homework List: https://t.ly/lfeOa
 
-All Lectures Notes: https://bit.ly/3XWVsLH
+All Lectures Notes: https://t.ly/jn6Pm
