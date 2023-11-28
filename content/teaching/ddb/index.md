@@ -23,5 +23,5 @@ Useful links to be used in the DDB - Control course:
 
 PID Ball game: https://nikital.github.io/pid/
 
-6 DOF Drone Mode: https://github.com/atahirkarasahin/GA-LQR 
+6 DOF Drone Model: https://github.com/atahirkarasahin/GA-LQR 
 
