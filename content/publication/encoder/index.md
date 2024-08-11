@@ -17,7 +17,7 @@ image:
 publication: Electrical Engineering
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: A new capacitive rotary encoder based on analog synchronous demodulation
