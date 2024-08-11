@@ -1,6 +1,6 @@
 ---
 title: Development of Model-Based Continual-Reinforcement Learning Mechanisms for Aerial Robots to Enable Rapid Adaptation to Unexpected Changes and Disturbances Effects
-summary: An example of using the in-built project page.
+summary: Learning-based Control for Aerial Robots
 tags:
   - Learning-based Control
 date: '2024-07-23T00:00:00Z'

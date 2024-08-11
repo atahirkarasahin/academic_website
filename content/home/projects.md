@@ -27,12 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Robotic
-      tag: Robotic
-    - name: Fuzzy Logic
-      tag: Fuzzy Logic
-    - name: Industrial Automation
-      tag: Industrial Automation
+    - name: Control
+      tag: Control
+    - name: Design
+      tag: Design
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
