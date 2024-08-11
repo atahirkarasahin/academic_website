@@ -22,4 +22,3 @@ title: Development of Model-Based Continual-Reinforcement Learning Mechanisms fo
 # url_slides: ""
 # url_video: ""
 ---
-In this project supported by TUBITAK 2219.
