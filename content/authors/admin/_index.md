@@ -26,10 +26,10 @@ interests:
 education:
   courses:
     - course: PhD in Mechatronics Engineering
-      institution: University of Necmettin Erbakan
+      institution: Necmettin Erbakan University
       year: 2022
     - course: MsC in Mechatronics Engineering
-      institution: University of Necmettin Erbakan
+      institution: Necmettin Erbakan University
       year: 2018
     - course: BSc in Mechatronics Engineering
       institution: University of Karabuk
