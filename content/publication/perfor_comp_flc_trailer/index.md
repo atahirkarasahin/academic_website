@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: Active control techniques in Vehicle-Caravan (VC) systems are designed to prevent instability modes. This study used Fuzzy Logic Controllers (FLCs), developed using the differential braking method, to prevent instability modes in a VC system and increase yaw stability. Four different FLC-based controllers were designed for the VC system type-1 Mamdani, type-1 Sugeno, simplified type-2, and Interval Type-2 (IT2). FLC-based controllers are used in VC systems due to nonlinear characteristics. This study showed that unstable situations can be prevented with FLCs according to the inputs obtained from a single IMU sensor placed in the caravan. The performance of the controllers developed in MATLAB/Simulink was assessed using CarSim. Experimental studies showed that the skidding that occurs after the Double Lane Change (DLC) maneuver is prevented by FLC-based controllers and the yaw stability is increased.
 # author_notes:
 # - Equal contribution
 # - Equal contribution
