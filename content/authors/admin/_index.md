@@ -32,7 +32,7 @@ education:
       institution: Necmettin Erbakan University
       year: 2018
     - course: BSc in Mechatronics Engineering
-      institution: University of Karabuk
+      institution: Karabuk University
       year: 2015
 
 # Social/Academic Networking
