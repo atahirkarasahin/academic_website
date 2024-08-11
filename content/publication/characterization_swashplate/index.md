@@ -22,7 +22,7 @@ publishDate: "2024-07-5T00:00:00Z"
 slides: example
 summary: Characterization of different hinge angles for swashplateless micro aerial robots
 tags: []
-title: [Q1] Characterization of different hinge angles for swashplateless micro aerial robots
+title: Characterization of different hinge angles for swashplateless micro aerial robots
 # url_code: ""
 # url_dataset: ""
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S2215098624001368?via%3Dihub"
