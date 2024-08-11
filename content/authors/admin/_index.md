@@ -10,11 +10,11 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Karabuk
-    url: https://www.karabuk.edu.tr
+  - name: Necmettin Erbakan University
+    url: https://www.erbakan.edu.tr
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm Assistant Professor at Karabuk University. I completed my PhD in Mechatronics Engineering at Necmettin Erbakan University. As my doctoral thesis, I am working on Modeling and Control of Dynamic Stability of an novel Electric Caravan System. My research focuses on aerial robotics and autonomous systems. I'm interested in the guidance, control and embedded software of autonomous systems (AUV and UAV).
+bio: I'm Assistant Professor at Necmettin Erbakan University and Visiting Research Fellow in Bristol Robotics Laboratory at University of Bristol. I completed my PhD in Mechatronics Engineering at Necmettin Erbakan University. As my doctoral thesis, I am working on Modeling and Control of Dynamic Stability of an novel Electric Caravan System. My research focuses on aerial robotics and autonomous systems. I'm interested in the guidance, control and embedded software of autonomous systems (AUV and UAV).
 
 # Interests to show in About widget
 interests:
