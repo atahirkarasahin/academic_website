@@ -1,12 +1,12 @@
 ---
-abstract: Active control techniques in Vehicle-Caravan (VC) systems are designed to prevent instability modes. This study used Fuzzy Logic Controllers (FLCs), developed using the differential braking method, to prevent instability modes in a VC system and increase yaw stability. Four different FLC-based controllers were designed for the VC system: type-1 Mamdani, type-1 Sugeno, simplified type-2, and Interval Type-2 (IT2). FLC-based controllers are used in VC systems due to nonlinear characteristics. This study showed that unstable situations can be prevented with FLCs according to the inputs obtained from a single IMU sensor placed in the caravan. The performance of the controllers developed in MATLAB/Simulink was assessed using CarSim. Experimental studies showed that the skidding that occurs after the Double Lane Change (DLC) maneuver is prevented by FLC-based controllers and the yaw stability is increased.
+abstract: Rotary encoders, which are mainly used to feedback the angle of the robot arm to the robot controller system, are widely used in industrial and robotic applications. While optical and magnetic rotary encoders are dominant in the market, capacitive rotary encoders are also gaining interest for their simple design, ability to miniaturize and being absolute encoders insensitive to magnetic field variations. In this study, a new economical capacitive rotary encoder based on analog synchronous demodulation is developed. Analog synchronous demodulation technique is used for the first time in the literature as far as known to the authors for capacitive rotary encoders. It is chosen as it is quite robust, simple and economical. A compact mechanical body is developed by 3D printing. After packaging, the sensor is fixed to a motor for testing. The developed encoder shows 2880 pulse/rotation resolution and repeatable output under different temperature environments.
 # author_notes:
 # - Equal contribution
 # - Equal contribution
 authors:
-- Ali Tahir Karasahin, Mehmet Karali
-date: "2023-06-23T00:00:00Z"
-doi: "https://doi.org/10.48084/etasr.5982"
+- Ali Tahir Karasahin, Mehmet Karali, Mehmet Akif Erismis, Oguzhan Keles, Mustafa Kocak
+date: "2018-01-13T00:00:00Z"
+doi: "https://doi.org/10.1007/s00202-018-0677-9"
 featured: true
 image: 
   #caption: ""
@@ -14,18 +14,18 @@ image:
   preview_only: false
 # projects:
 # - example2
-publication: Engineering, Technology and Applied Science Research (ETASR)
+publication: Electrical Engineering
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2023-06-22T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Performance Comparison of Different Fuzzy Logic Controllers on Vehicle-Caravan Systems
+summary: A new capacitive rotary encoder based on analog synchronous demodulation
 tags: []
-title: Performance Comparison of Different Fuzzy Logic Controllers on Vehicle-Caravan Systems
+title: A new capacitive rotary encoder based on analog synchronous demodulation
 # url_code: ""
 # url_dataset: ""
-url_pdf: "https://etasr.com/index.php/ETASR/article/view/5982"
+url_pdf: "https://link.springer.com/article/10.1007/s00202-018-0677-9"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
