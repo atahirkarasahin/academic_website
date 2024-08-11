@@ -25,13 +25,13 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: tahirkarasahin@karabuk.edu.tr
-  phone: +90 370 418 7429
+  email: alitahir.karasahin@erbakan.edu.tr
+  phone: +90 332 325 20 24
   address:
-    street: Karabuk University Iron-Steel Campus
-    city: Karabuk
+    street: Necmettin Erbakan University Faculty of Engineering
+    city: Konya
     region: ""
-    postcode: '78050'
+    postcode: '42090'
     country: Turkey
     country_code: TR
   # coordinates:

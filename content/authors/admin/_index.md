@@ -14,13 +14,13 @@ organizations:
     url: https://www.erbakan.edu.tr
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm Assistant Professor at Necmettin Erbakan University and Visiting Research Fellow in Bristol Robotics Laboratory at University of Bristol. I completed my PhD in Mechatronics Engineering at Necmettin Erbakan University. As my doctoral thesis, I am working on Modeling and Control of Dynamic Stability of an novel Electric Caravan System. My research focuses on aerial robotics and autonomous systems. I'm interested in the guidance, control and embedded software of autonomous systems (AUV and UAV).
+bio: I'm Assistant Professor at Necmettin Erbakan University and Visiting Research Fellow in Bristol Robotics Laboratory at University of Bristol. My research interests include learning-based control and design in aerial robots.
 
 # Interests to show in About widget
 interests:
-  - Robotics
-  - Unmanned Systems
-  - Control Theory and Applications
+  - Aerial Robots
+  - Learning-based Control
+  - Mechatronics
 
 # Education to show in About widget
 education:
@@ -67,4 +67,4 @@ email: ''
 highlight_name: true
 ---
 
-I'm Assistant Professor at Karabuk University. I completed my PhD in Mechatronics Engineering at Necmettin Erbakan University. As my doctoral thesis, I am working on Modeling and Control of Dynamic Stability of an Novel Electric Caravan System. My research focuses on aerial robotics and autonomous systems. I'm interested in the guidance, control and embedded software of autonomous systems (AUV and UAV).
+I'm Assistant Professor at Necmettin Erbakan University and Visiting Research Fellow in Bristol Robotics Laboratory at University of Bristol. My research interests include learning-based control and design in aerial robots.
