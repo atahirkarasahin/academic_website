@@ -18,7 +18,7 @@ publication: Engineering Science and Technology, an International Journal
 publication_short: ""
 publication_types:
 - "1"
-publishDate: "2024-07-4T00:00:00Z"
+publishDate: "2024-07-5T00:00:00Z"
 slides: example
 summary: Characterization of different hinge angles for swashplateless micro aerial robots
 tags: []
