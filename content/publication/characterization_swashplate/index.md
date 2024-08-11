@@ -5,7 +5,7 @@ abstract: Micro Aerial Robots (MARs) are expected to increase their payload carr
 # - Equal contribution
 authors:
 - Ali Tahir Karasahin
-date: "2024-07-4T00:00:00Z"
+date: "2024-07-04T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jestch.2024.101750"
 featured: true
 image: 

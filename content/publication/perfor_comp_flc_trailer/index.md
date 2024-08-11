@@ -18,7 +18,7 @@ publication: Engineering, Technology and Applied Science Research (ETASR)
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2023-06-23T00:00:00Z"
+publishDate: "2023-06-22T00:00:00Z"
 slides: example
 summary: Performance Comparison of Different Fuzzy Logic Controllers on Vehicle-Caravan Systems
 tags: []
