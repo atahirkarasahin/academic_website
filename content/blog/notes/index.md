@@ -20,21 +20,34 @@ image:
   preview_only: false
 ---
 
-*Yeni Ufuklara Açılan Kapı*
+Öncelikle 12 ay süreyle araştırma amaçlı İngiltere'de bulunacağımız süre boyunca bizde kalanları aktarmak amacıyla bu yazı serisine başlamış bulunmaktayım. Hem geleceğe bir not hem de benzer niyetler içerisinde olan/olacaklara kendi penceremizden bir bakış açısı sunmak istedim.
 
-<div style="text-align: center;">
+**İlk İzlenimler: İngiltere’ye Merhaba**
+
+Microsoft'un [CrowdStrike](https://www.bbc.co.uk/news/articles/cpe3zgznwjno) güncellemesiyle beraber 8.5 Milyon cihazın etkilenmesiyle, 22 Temmuz 2024 tarihindeki uçuşun iptal edilip ardından da ertelenmesiyle İngiltere süreci başladı.
+
+Bristol İngiltere'nin [en büyük altıncı şehri] (https://worldpopulationreview.com/cities/united-kingdom) ve araştırmalarımı yapacağım Bristol Üniversitesi 2025 [THE verilerine göre](https://www.timeshighereducation.com/world-university-rankings/university-bristol) UK'daki 9, dünya sıralamasında ise 78'nci sırada yer almaktadır. 
+
+
+İlk etapta çözülmesi/halledilmesi gereken konaklamayla ilgilendiğim bir sürecin içerisinde kendimi buldum.
+
+**Günlük Yaşam**
+
 The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their performance.
-</div>
-
-![A beautiful view of Bristol](house.jpeg)
 
 
+<figure style="text-align: center;">
+  <img src="brl.jpeg" alt="Alt text describing the image" style="width:50%; margin:auto; display:block;" />
+  <figcaption>Caption text describing the image</figcaption>
+</figure>
 
-**İlk İzlenimler: İngiltere’ye Adaptasyon**
 
-<div style="text-align: center;">
-The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their performance.
-</div>
+The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their  [Bristol University](https://www.bristol.ac.uk/ performance.
 
-<img src="brl.jpeg" alt="Alt text describing the image" style="width:50%; margin:auto; display:block;" />
+**Araştırma Deneyimi**
 
+
+**Karşılaşılan Zorluklar**
+
+
+**İlham Veren Anlar ve Kazanımlar**
