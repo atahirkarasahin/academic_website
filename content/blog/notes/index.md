@@ -20,3 +20,5 @@ The original contribution of this research is the development of continual learn
 
 A continual learning algorithm will be proposed to improve the ability of aerial robots to adapt to various loads and disturbances through online learning. The model-based continual-reinforcement learning algorithm includes training and testing phases. In the training phase, the dynamic model parameters and adaptation parameters will be updated under various tasks. After the parameters of the tether dynamics in the system, which require advanced expert knowledge and mathematical modelling, are determined in the training phase, they will be used in the test phase, and performance evaluations will be made under previously seen and unseen tasks.
 
+asdad
+
