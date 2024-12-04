@@ -2,7 +2,7 @@
 title: İngiltere Günleri - Bölüm 1
 summary: İngiltere Günleri
 tags:
-  - 1
+  - Bölüm-1
 date: '2024-12-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page). 

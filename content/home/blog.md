@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: 1
-      tag: 1
-    - name: 2
-      tag: 2
+    - name: Bölüm-1
+      tag: Bölüm-1
+    - name: Bölüm-2
+      tag: Bölüm-2
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
