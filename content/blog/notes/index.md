@@ -20,7 +20,7 @@ image:
   preview_only: false
 ---
 
-Öncelikle 12 ay süreyle araştırma amaçlı İngiltere'de bulunacağımız süre boyunca bizde kalanları aktarmak amacıyla bu yazı serisine başlamış bulunmaktayım. Hem geleceğe bir not hem de benzer niyetler içerisinde olan/olacaklara kendi penceremizden bir bakış açısı sunmak istedim.
+Öncelikle 12 ay süreyle doktora sonrası araştırma [TÜBİTAK 2219] amaçlı İngiltere'de bulunacağımız süre boyunca bizde kalanları aktarmak amacıyla bu yazı serisine başlamış bulunmaktayım. Hem geleceğe bir not hem de benzer niyetler içerisinde olan/olacaklara kendi penceremizden bir bakış açısı sunmak istedim. Başlamadan önce bu fırsatı, araştırma projemizi destekleyerek bize veren TÜBİTAK'a ve bu sürece izin veren üniversiteme teşekkür etmek isterim.
 
 **İlk İzlenimler: İngiltere’ye Merhaba**
 
@@ -50,8 +50,18 @@ Başka bir ülkede yeni bir hayat kurmanın aslında çok zor geçmediğini söy
   <figcaption>Ücreti mukabilinde ürünler kapında</figcaption>
 </figure>
 
+İkinci el eşyaları elde çıkarmak bir mesele olduğu için bunları sistem içerisinde ve sürdürebilir bir şekilde tutmanın yollarından birisi olarak insanlar tercih etmektedir. Fazla eşyayı atamıyorsunuz çünkü dışarıda bırakacak bir yer yok. Çöpleriniz haftanın belirli bir günü aşağıdaki araçlar ile ve size ait olan kutular içerisinde toplanmaktadır.
 
-The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their  [Bristol University](https://www.bristol.ac.uk/ performance.
+<figure style="text-align: center;">
+  <img src="bin.jpeg" alt="Alt text describing the image" style="width:50%; margin:auto; display:block;" />
+  <figcaption>Ayrıştırma işi sizde</figcaption>
+</figure>
+
+Toplu ulaşımın önceliklendirildiğini birçok noktadaki özel şeritler ve durakların yaşam alanlarına göre planlanmasından anlayabiliyorsunuz. Bristol şehrinden Londra'ya otobüsle 4 kişilik bir aile £58 ücret ödeyecekken trenle bu fiyatın £203 olması anlam veremediğim konulardan birisi olmuştur.
+
+Başka bir konuda konaklama bedellerinin çok yüksel olmasıdır. Özellikle bir yer kiralayabilmeniz için evin aylık kirasının en az 2.5 katı gelirinizin olmasını belgelemek durumundasınız. Bu şartı sağlayamamanız durumunda UK'da bulunan bir garantör aracılığyla bu sürece devam etmeniz gerecektir. 
+
+Alışık olmadığımız başka bir hususta kiraladığımız evin bize teslim edilmeden önce ekspertiz diyebileceğimiz bir firma üzerinden yaklaşık 300 fotoğrafının çekilmesiydi. Evden çıkmanız durumunda ise 5 hafta olarak alınan depozito ücreti yine aynı firma tarafından evin son durumunun incelenmesiyle ve oluşturulan değerlendirmeye göre ücretin geri ödenmesiyle sona erecek bir ilerleyiş sizi beklemektedir. 
 
 **Araştırma Deneyimi**
 
