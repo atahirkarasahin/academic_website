@@ -1,11 +1,11 @@
 ---
-title: İngiltere Günleri - Bölüm 1
+title: England
 summary: İngiltere Günleri
 tags:
   - 1
 date: '2024-12-23T00:00:00Z'
 
-# Optional external URL for project (replaces project detail page).
+# Optional external URL for project (replaces project detail page). İngiltere Günleri - Bölüm 1
 external_link: ''
 
 # Slides (optional).
