@@ -30,10 +30,11 @@ The original contribution of this research is the development of continual learn
 
 
 
-*İlk İzlenimler: İngiltere’ye Adaptasyon*
+**İlk İzlenimler: İngiltere’ye Adaptasyon**
 
 <div style="text-align: center;">
 The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their performance.
 </div>
 
-![A beautiful view of Bristol](brl.jpeg)
+<img src="brl.jpeg" alt="Alt text describing the image" style="width:50%; margin:auto; display:block;" />
+
