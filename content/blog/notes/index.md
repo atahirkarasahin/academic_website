@@ -22,5 +22,5 @@ image:
 
 The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their performance by rapidly adapting to sudden changes in the suspended payload and the operating environment using a model-based continual-reinforcement learning technique.
 
-![A beautiful view of Bristol](house.jpg)
+![A beautiful view of Bristol](house.jpeg)
 
