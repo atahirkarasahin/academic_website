@@ -1,5 +1,5 @@
 ---
-title: İngiltere Günleri: Bölüm 1
+title: İngiltere Günleri - Bölüm 1
 summary: İngiltere Günleri
 tags:
   - 1
