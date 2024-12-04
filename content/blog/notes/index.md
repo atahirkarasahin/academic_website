@@ -20,7 +20,20 @@ image:
   preview_only: false
 ---
 
-The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their performance by rapidly adapting to sudden changes in the suspended payload and the operating environment using a model-based continual-reinforcement learning technique.
+*Yeni Ufuklara Açılan Kapı*
+
+<div style="text-align: center;">
+The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their performance.
+</div>
 
 ![A beautiful view of Bristol](house.jpeg)
 
+
+
+*İlk İzlenimler: İngiltere’ye Adaptasyon*
+
+<div style="text-align: center;">
+The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their performance.
+</div>
+
+![A beautiful view of Bristol](brl.jpeg)
