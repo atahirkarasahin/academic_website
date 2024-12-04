@@ -24,21 +24,30 @@ image:
 
 **İlk İzlenimler: İngiltere’ye Merhaba**
 
-Microsoft'un [CrowdStrike](https://www.bbc.co.uk/news/articles/cpe3zgznwjno) güncellemesiyle beraber 8.5 Milyon cihazın etkilenmesiyle, 22 Temmuz 2024 tarihindeki uçuşun iptal edilip ardından da ertelenmesiyle İngiltere süreci başladı.
+Microsoft'un [CrowdStrike](https://www.bbc.co.uk/news/articles/cpe3zgznwjno) güncellemesiyle beraber 8.5 Milyon cihazın etkilenmesiyle, 22 Temmuz 2024 tarihindeki uçuşumun ertelenmesiyle İngiltere süreci başlamış oldu.
 
-Bristol İngiltere'nin [en büyük altıncı şehri] (https://worldpopulationreview.com/cities/united-kingdom) ve araştırmalarımı yapacağım Bristol Üniversitesi 2025 [THE verilerine göre](https://www.timeshighereducation.com/world-university-rankings/university-bristol) UK'daki 9, dünya sıralamasında ise 78'nci sırada yer almaktadır. 
+Bristol şehri İngiltere'nin güney batısında yer almaktadır. İngiltere'nin [en büyük altıncı şehri](https://worldpopulationreview.com/cities/united-kingdom) ve araştırmalarımı yapacağım Bristol Üniversitesi 2025 [THE verilerine göre](https://www.timeshighereducation.com/world-university-rankings/university-bristol) UK'daki 9, dünya sıralamasında ise 78'nci sırada yer almaktadır. 
 
+İlk etapta çözülmesi/halledilmesi gereken konaklamayla ilgilendiğim bir sürecin içerisinde kendimi buldum. Bristol şehrinde bulunan hem havacılık ve savunma teknoloji şirketleri ve etki ettiği endüstriden dolayı hem de şehirde iki tane üniversite olmasından dolayı göç almaktadır. Bu durumda konaklama işini oldukça zorlaştırdığını söyleyebilirim. Aşağıdaki resim kiralamak için görüşmeye gittiklerim evlerden oluşmaktadır.
 
-İlk etapta çözülmesi/halledilmesi gereken konaklamayla ilgilendiğim bir sürecin içerisinde kendimi buldum.
+<figure style="text-align: center;">
+  <img src="house.jpeg" alt="Alt text describing the image" style="width:50%; margin:auto; display:block;" />
+  <figcaption>Çok şükür şu an birisindeyiz</figcaption>
+</figure>
+
+23 Temmuz'da başladığım ev arama süreci 3 Eylül tarihinde kira sözleşmesini imzalamakla tamamlanmış oldu. Özellikle İngiltere'ye gelecekler için şehrin dinamiklerini önceden öğrenmeleri ve ona göre konaklama stratejileri geliştirmelerini şiddetle tavsiye ederim. Evimizi [rightmove](https://www.rightmove.co.uk/) üzerinden bir emlak ajansı aracılığıyla kiraladık.
+
+İlk izlenimlere değinmek gerekirse; farklı bir ülke ve farklı bir sistemin içerisine girmenin vermiş olduğu çeşitlilik sizde kaldığını söyleyebilirim. Gerçekten bazı olayları değerlendirebilmek için alternatiflerini de görmeniz gerektiği kanaatindeyim. Bu deneyimlere bundan daha fazla anlam yüklemenin uygun olduğunu düşünmüyorum.
 
 **Günlük Yaşam**
 
-The original contribution of this research is the development of continual learning mechanisms that enable aerial robots to improve their performance.
+Genel itibariyle sakin ve hayatın akışına bırakıldığı bir süreci içerisinde olduğumu rahatlıkla söyleyebilirim. Londra gibi yoğun ilgi gören yerde değilseniz ve kullandığınız ulaşım tercihine de bağlı olarak işlerin olması gibi ilerlediği belirtilebilir. 
 
+Başka bir ülkede yeni bir hayat kurmanın aslında çok zor geçmediğini söyleyebilirim. Özellikle sistem içerisinde buna yönelik araçlar varsa.. Kiraladığımız evin ihtiyaçları için ürünleri satın aldığımız vakıfta bunlardan birisiydi.
 
 <figure style="text-align: center;">
-  <img src="brl.jpeg" alt="Alt text describing the image" style="width:50%; margin:auto; display:block;" />
-  <figcaption>Caption text describing the image</figcaption>
+  <img src="bhf.jpeg" alt="Alt text describing the image" style="width:50%; margin:auto; display:block;" />
+  <figcaption>Ücreti mukabilinde ürünler kapında</figcaption>
 </figure>
 
 
