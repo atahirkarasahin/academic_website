@@ -105,7 +105,7 @@ Doktora öğrencilerine yaklaşık aylık £1600 burs verilmesi, bu rakamın tek
 
 <figure style="text-align: center;">
   <img src="imav.jpeg" alt="Alt text describing the image" style="width:50%; margin:auto; display:block;" />
-  <figcaption>Konferansta sunulan bildirilere [göz atmak isteyenleri buraya alalım](https://www.imavs.org/)</figcaption>
+  <figcaption>Konferansta sunulan bildirilere [göz atmak isteyenleri buraya alalım](https://www.imavs.org/) </figcaption>
 </figure>
 
 IMAV 2024'te tanıştığımız bilim insanlarından biri de Guido de Croon oldu, [Google Scholar profiline buradan ulaşabilirsiniz](https://scholar.google.com/citations?user=gTF1wiwAAAAJ&hl=tr&oi=ao). Delf Teknoloji Üniversitesinde çalışan Guido'nun özellikle bulunduğu akademik kariyerine ve herhangi bir ülkede rahatlıkla karşılık bulabilecek birisi olmasına rağmen oldukça samimi ve mütevazi bir kişi olduğunu rahatlıkla söyleyebilirim.
