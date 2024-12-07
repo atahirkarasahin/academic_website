@@ -3,7 +3,7 @@ title: İngiltere Günleri Bölüm-1
 summary: Bölüm-1
 tags:
   - Bölüm-1
-date: '2024-07-23T00:00:00Z'
+date: '2024-12-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -76,7 +76,7 @@ Alışık olmadığımız bir diğer husus, kiraladığımız evin teslim edilme
 
 Bir diğer hususta ülkenin iklimi. Güneşsiz günlere uyum sağlama konusunda şüpheleriniz varsa, yolun başındayken başka bir ülkeye yönelmenizi tavsiye ederim. 
 
-Yeni bir ülkeyi mühendis gözünden incelerken/gözlemlerken enerji üretiminin çeşitliliğine de bakmadan edemiyoruz. İngiltere [2024 verilerine göre elektrik ihtiyacının](https://www.edenseven.co.uk/national-grid-eso-analysis-august-2024) %43'ünü yenilebilir kaynaklardan üretmiştir. Ek olarak tabii ki nükleer enerji de %18 oranıyla üretim içerisinde yer almaktadır.
+Yeni bir ülkeyi mühendis gözünden incelerken/gözlemlerken enerji üretiminin çeşitliliğine de bakmadan edemiyoruz. İngiltere, [2024 verilerine göre elektrik ihtiyacının](https://www.edenseven.co.uk/national-grid-eso-analysis-august-2024) %43'ünü yenilebilir kaynaklardan üretmiştir. Ek olarak tabii ki nükleer enerji de %18 oranıyla üretim içerisinde yer almaktadır.
 
 
 **Araştırma Deneyimi**
