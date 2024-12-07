@@ -1,5 +1,5 @@
 ---
-title: İngiltere Günleri Bölüm-1
+title: Bir Yıllık İngiltere Serüveni - Bölüm 1
 summary: Bölüm-1
 tags:
   - Bölüm-1
@@ -75,6 +75,8 @@ Alışık olmadığımız bir diğer husus, kiraladığımız evin teslim edilme
 </figure>
 
 Bir diğer hususta ülkenin iklimi. Güneşsiz günlere uyum sağlama konusunda şüpheleriniz varsa, yolun başındayken başka bir ülkeye yönelmenizi tavsiye ederim. 
+
+Gıda konusuna da değinecek olursak başka bir ülkede yaşamanın avantajlarından birisi de bu konuda farkındalığınızın artmasıdır. UK'daki ve diğer ülkelerde de olabilecek "Suitable for vegetarians" ibaresinin müslümanlar açısından önemli bir işaret olmasıdır. Bu işaretin bulunması katkı maddelerinin kaynağını işaret ederek gıdalardaki şüpheli etiketi kalmaktadır. Elbetteki üründeki bütün içeriği dikkatli bir şekilde gözden geçirdikten sonra karar verir bir hale geliyorsunuz. Bu konu da ülkemizde döndüğümüzde kullanacağımız uygulamayı şimdiden sizlere tavsiye ediyorum: [Gıda ölçer](https://www.gidaolcer.net/).
 
 Yeni bir ülkeyi mühendis gözünden incelerken/gözlemlerken enerji üretiminin çeşitliliğine de bakmadan edemiyoruz. İngiltere, [2024 verilerine göre elektrik ihtiyacının](https://www.edenseven.co.uk/national-grid-eso-analysis-august-2024) %43'ünü yenilebilir kaynaklardan üretmiştir. Ek olarak tabii ki nükleer enerji de %18 oranıyla üretim içerisinde yer almaktadır.
 
