@@ -20,9 +20,9 @@ publication_types:
 - "2"
 publishDate: "2025-03-10T00:00:00Z"
 slides: example
-summary: Maintaining Plasticity in Reinforcement Learning: A Cost-Aware Framework for Aerial Robot Control in Non-stationary Environments
+summary: Maintaining Plasticity in Reinforcement Learning A Cost-Aware Framework for Aerial Robot Control in Non-stationary Environments
 tags: []
-title: Maintaining Plasticity in Reinforcement Learning: A Cost-Aware Framework for Aerial Robot Control in Non-stationary Environments
+title: Maintaining Plasticity in Reinforcement Learning A Cost-Aware Framework for Aerial Robot Control in Non-stationary Environments
 # url_code: ""
 # url_dataset: ""
 url_pdf: "https://arxiv.org/abs/2503.00282"
