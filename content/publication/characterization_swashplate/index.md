@@ -1,12 +1,12 @@
 ---
-abstract: Reinforcement learning (RL) has demonstrated the ability to maintain the plasticity of the policy throughout short-term training in aerial robot control. However, these policies have been shown to loss of plasticity when extended to long-term learning in non-stationary environments. For example, the standard proximal policy optimization (PPO) policy is observed to collapse in long-term training settings and lead to significant control performance degradation. To address this problem, this work proposes a cost-aware framework that uses a retrospective cost mechanism (RECOM) to balance rewards and losses in RL training with a nonstationary environment. Using a cost gradient relation between rewards and losses, our framework dynamically updates the learning rate to actively train the control policy in a disturbed wind environment. Our experimental results show that our framework learned a policy for the hovering task without policy collapse in variable wind conditions and has a successful result of 11.72% less dormant units than L2 regularization with PPO.
+abstract: Micro Aerial Robots (MARs) are expected to increase their payload carrying capacity and flight time, and to serve in limited areas. These demands can only be met by developing new designs such as the swashplateless mechanism. By using the developed swashplateless mechanisms in aerial robots, the number of actuators and power consumption are reduced and payload carrying capacities are increased. Design criteria of swashplateless mechanisms should be determined according to the working conditions of aerial robots. In this paper, different hinge angles are characterized for aerial robots that will use the swashplateless passive mechanism. This characterization is investigated with respect to design criteria such as power consumption, thrust force and RPM and sound pressure level (SPL) of the swashplateless mechanism with different hinge angles. According to the results obtained, it was revealed that changes occurred in the thrust force characterizations of the mechanisms with different hinge angles before and after 1750 RPM. Similarly, it has been shown that a change in the power consumption behavior of passive mechanisms with different hinge angles occurs before and after the 0.8 N thrust force threshold value. The effect of determining the hinge angle in the swashplateless mechanism on the system performance is revealed. It has been shown that if the swashplateless mechanism is to be used in the aerial robot, it is necessary to first determine the working conditions during operational use and then determine the hinge angle in the passive mechanism.
 # author_notes:
 # - Equal contribution
 # - Equal contribution
 authors:
 - Ali Tahir Karasahin
-date: "2025-03-10T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2503.00282"
+date: "2024-07-10T00:00:00Z"
+doi: "https://doi.org/10.1016/j.jestch.2024.101750"
 featured: true
 image: 
   #caption: ""
@@ -14,18 +14,18 @@ image:
   preview_only: false
 # projects:
 # - example2
-publication: arXiv
+publication: Engineering Science and Technology, an International Journal
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2024-07-05T00:00:00Z"
+publishDate: "2024-07-10T00:00:00Z"
 slides: example
-summary: Maintaining Plasticity in Reinforcement Learning: A Cost-Aware Framework for Aerial Robot Control in Non-stationary Environments
+summary: Characterization of different hinge angles for swashplateless micro aerial robots
 tags: []
-title: Maintaining Plasticity in Reinforcement Learning: A Cost-Aware Framework for Aerial Robot Control in Non-stationary Environments
+title: Characterization of different hinge angles for swashplateless micro aerial robots
 # url_code: ""
 # url_dataset: ""
-url_pdf: "https://arxiv.org/abs/2503.00282"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S2215098624001368"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
