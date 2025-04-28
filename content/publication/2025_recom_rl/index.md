@@ -5,7 +5,7 @@ abstract: Reinforcement learning (RL) has demonstrated the ability to maintain t
 # - Equal contribution
 authors:
 - Ali Tahir Karasahin, Ziniu Wu, Basaran Bahadir Kocer
-date: "2024-07-04T00:00:00Z"
+date: "2025-03-10T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2503.00282"
 featured: true
 image: 
