@@ -12,7 +12,7 @@ links:
 #slides: example
 summary: MsC - UAV
 tags:
-- statistical
+- MsC
 title: MsC - UAV
 # url_code: ""
 # url_pdf: ""
