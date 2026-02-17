@@ -59,11 +59,11 @@ Teknik tarafta ise otonom sistemlerin doğayla etkileşimi üzerine heyecan veri
 
 İngiltere'de geçirdiğimiz süre boyunca şehrin nabzını tutan sosyal olaylara da şahitlik ettik. Bristol halkının dünyadaki haksızlıklara karşı gösterdiği duyarlılık ve düzenlenen Filistin yürüyüşleri, adaletin evrensel bir dil olduğunu bize bir kez daha hatırlattı.
 
-Aynı zamanda inancımızı ve kültürümüzü temsil etme noktasında da güzel anlar yaşadık. Ramazan ayında laboratuvar arkadaşımız Ali'nin hazırladığı küçük ikramlar ve bilgilendirme notları, farklı inançların nasıl bir saygı ve merakla karşılandığının zarif bir örneğiydi.
+Aynı zamanda inancımızı ve kültürümüzü temsil etme noktasında da güzel anlar yaşadık. Ramazan ayının gelişiyle birlikte, içerisinde bulunduğum **Flight Research Laboratory** ekibi için küçük hediye paketleri hazırladım. Ramazan'ın paylaşma ve bereket ruhunu anlatan kısa notlar eşliğinde sunduğum bu minik ikramların, çalışma arkadaşlarım arasında kurduğumuz gönül köprülerini ne denli güçlendirdiğini görmek benim için çok kıymetliydi. Farklı kültürlerin birbirini nezaketle karşıladığı bu anlar, akademik çalışmaların ötesinde insani bir derinlik kazandırdı.
 
 <figure style="text-align: center;">
   <img src="ramadan.jpeg" alt="Ramazan Paylaşımı" style="width:70%; margin:auto; display:block;" />
-  <figcaption>Laboratuvarda Ramazan ruhu ve kültürel etkileşim </figcaption>
+  <figcaption>Flight Research Laboratory ekibi için hazırladığım Ramazan hediyeleri </figcaption>
 </figure>
 
 **Sonuç: Bir Yılın Muhasebesi**
