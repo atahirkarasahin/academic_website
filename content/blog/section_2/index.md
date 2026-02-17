@@ -48,7 +48,7 @@ Bristol Üniversitesi'nin simge yapılarından **Queen's Building**, mesaimin b�
   <figcaption>University of Bristol, Queen's Building: Akademik yuvamız </figcaption>
 </figure>
 
-Teknik tarafta ise otonom sistemlerin doğayla etkileşimi üzerine heyecan verici çalışmalar yürüttük. Özellikle ağaç dalları gibi düzensiz yapılara tutunabilen "tendon-driven" mekanizmaların saha testleri, teorik simülasyonların gerçek hayattaki rüzgar ve dal esnekliği gibi değişkenlerle nasıl imtihan edildiğini gösterdi.
+Teknik tarafta ise otonom sistemlerin doğayla etkileşimi üzerine heyecan verici çalışmalar yürüttük. Özellikle ağaç dalları gibi düzensiz yapılara tüneyebilen "tendon-driven" mekanizmaların geliştirilmesi, simülasyonları ve saha testlerini gerçekleştirmek oldukça öğretici oldu.
 
 <figure style="text-align: center;">
   <img src="tendon_driven.png" alt="Drone Testi" style="width:70%; margin:auto; display:block;" />
