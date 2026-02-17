@@ -1,12 +1,14 @@
 ---
-title: Bir Yıllık İngiltere Serüveni - Bölüm 2 (Final)
-summary: Bristol'deki bir yılımızın akademik ve sosyal muhasebesi; ailemizle biriktirdiğimiz anılar ve teknik kazanımlar.
+title: 2025 IROS - Çin Günlükleri
+summary: İlk Çin ziyaretim, Hangzhou'daki IROS 2025 konferansı ve akademik sunumlarımız; robotik teknolojilerinden Şanghay'ın büyüleyici sokaklarına bir yolculuk.
 tags:
-  - Bristol
-  - Akademik Hayat
-  - TÜBİTAK 2219
-  - Final
-date: '2025-05-10T00:00:00Z'
+  - IROS 2025
+  - Robotik
+  - Çin
+  - Hangzhou
+  - Şanghay
+  - Akademik Seyahat
+date: '2025-10-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -14,62 +16,74 @@ external_link: ''
 # Slides (optional).
 slides: example
 image:
-  caption: "Castle Park"
+  caption: "IROS 2025 Hangzhou"
   focal_point: "Center"
   preview_only: false
 ---
 
-İkinci bölümle sizlerin huzurunuzdayız. Planlanan süreden biraz geç de olsa bu yazı dizisinin hem sizler hem de bizler için hoş bir akış olmasını temenni ediyorum. İlk bölümde daha çok adaptasyon ve sistem üzerine odaklanmıştık; bu bölümde ise Bristol'deki süremizi tamamlayan akademik kültürü, sosyal hayatı ve bu bir yılın bizde bıraktığı izleri paylaşarak seriyi noktalayacağız.
+Hayat boyu unutulmayacak deneyimler listesine yeni bir halka eklendi: İlk defa adım attığım Çin topraklarında, dünyanın en prestijli robotik konferanslarından biri olan **IROS 2025**'e katıldım. Hangzhou ve Şanghay şehirlerini kapsayan bu seyahat, hem akademik vizyonum hem de kültürel birikimim için dönüm noktalarından biri oldu.
 
-Microsoft'un [CrowdStrike](https://www.bbc.co.uk/news/articles/cpe3zgznwjno) güncellemesiyle beraber 8.5 Milyon cihazın etkilenmesi sonucu, 22 Temmuz 2024 tarihindeki uçuşumun ertelenmesiyle başlayan bu macera, dolu dolu bir yılı geride bıraktı.
+**Akademik Durak: Hangzhou ve IROS 2025**
 
-**Aile Yaşamı ve Sosyal Uyum**
-
-Kısa sayılabilecek bir süre içerisinde İngiltere'de bulunacak olsak da elhamdülillah bu süre zarfında bir düzenin kurulduğunu görmek ayrı bir tecrübe oldu. Bazen ataletlerimize inat konfor alanımızdan çıkarak sınırlarımızı olumlu yönde genişletmenin, yaratıcı tarafından önümüze nelerin ikram edileceğini bilemeyiz. Bu süreçte ailemizin duasını ve desteğini yakınen hissetmek her manada bize güç vermiştir. Ailemizin yanımıza kadar gelmesi, hem kendileri hem de bizim için unutulmaz hatıralar biriktirmemize vesile oldu.
+IROS'un köklü tarihini yansıtan "IROS History" duvarı önünde durduğumda, bu devasa organizasyonun bir parçası olmanın gururunu bir kez daha hissettim. 1988'de Tokyo'da başlayan bu yolculuğun, 2025 yılında Hangzhou'da devam eden serüvenine dahil olmak paha biçilemezdi.
 
 <figure style="text-align: center;">
-  <img src="wales.jpeg" alt="Galler Gezisi" style="width:70%; margin:auto; display:block;" />
-  <figcaption>Ailemizle beraber Galler/Cardiff gezimizden bir kare </figcaption>
+  <img src="iros_history.jpeg" alt="IROS Tarihçesi" style="width:70%; margin:auto; display:block;" />
+  <figcaption>1988'den günümüze robotik dünyasının kalbi: IROS Tarihçesi </figcaption>
 </figure>
 
-5 ve 7 yaşında yavrularımızın başka bir dilde eğitimlerine devam etmeleri bizleri oldukça mutlu etmektedir. Okulları [Severn Beach Primary School](https://www.severnbeachprimary.co.uk/) bünyesinde, İngiliz eğitim sisteminin disiplinli ama bir o kadar da teşvik edici yapısına şahit olduk. Dönemlerin altıya bölünmesi ve devam zorunluluğu gibi farklılıklara rağmen, çocuklarımız şu an okul dışında dahi vakit geçirecekleri arkadaşlıklar kurarak dil bariyerini aşmayı başardılar.
+Konferans kapsamında, Bristol Üniversitesi **Aerial Robotics Group** ekibi olarak yerimizi aldık. Bilimsel tartışmalar ve teknolojik ağ kurma açısından oldukça verimli bir hafta geçirdik.
 
 <figure style="text-align: center;">
-  <img src="christmas.jpeg" alt="Noel Pazarı" style="width:70%; margin:auto; display:block;" />
-  <figcaption>Yurt dışında yılın en yoğun ve ışıltılı zaman dilimi </figcaption>
+  <img src="aerial_robotics_group.jpeg" alt="Aerial Robotics Ekibi" style="width:70%; margin:auto; display:block;" />
+  <figcaption>IROS 2025 ekibimizle konferans merkezinde </figcaption>
 </figure>
 
-**Eğitim ve Akademik Kültür**
+**Sunum Heyecanı ve Ekip İle Poster Soru-Cevap Seansı**
 
-Bristol Üniversitesi'nin simge yapılarından **Queen's Building**, mesaimin büyük bir kısmına ev sahipliği yaptı. Buradaki akademik kültür, sadece teknik bilgi üretmek değil, aynı zamanda o bilgiyi toplumsal bir faydaya dönüştürme vizyonu üzerine kurulu. Laboratuvar ortamındaki özgürlük ve kaynaklara erişim kolaylığı, araştırmalarımızı derinleştirmek için büyük bir şanstı.
+Konferansın benim için en unutulmaz ve yoğun anları şüphesiz sunum ve poster oturumlarıydı. Ekibimizle birlikte hazırladığımız **"Tendon-driven Grasper Design for Aerial Robot Perching on Tree Branches"** başlıklı çalışmamızın sunumunu gerçekleştirdikten sonra, heyecanımız poster alanında da devam etti. 
+
+Sunumun ardından ekip arkadaşlarımızla birlikte posterimizin başında yerimizi aldık. Dünyanın farklı üniversitelerinden gelen araştırmacıların teknik sorularını yanıtladığımız, tasarımımızın detaylarını tartıştığımız ve otonom sistemlerin doğadan ilham alan tutunma mekanizmaları üzerine derinlemesine fikir alışverişi yaptığımız bu soru-cevap seansı oldukça besleyiciydi. Ekip olarak soruları göğüslemek ve çalışmamızı bu denli profesyonel bir platformda savunmak akademik motivasyonumuzu katladı.
+
+> **Çalışmamızı detaylı incelemek isterseniz:** > [IEEE Xplore: Tendon-driven Grasper Design for Aerial Robot Perching on Tree Branches](https://ieeexplore.ieee.org/abstract/document/11247040)
 
 <figure style="text-align: center;">
-  <img src="queens.jpeg" alt="Queen's Building" style="width:70%; margin:auto; display:block;" />
-  <figcaption>University of Bristol, Queen's Building: Akademik yuvamız </figcaption>
+  <img src="poster_presentation.jpeg" alt="Poster Sunumu ve Soru-Cevap" style="width:70%; margin:auto; display:block;" />
+  <figcaption>Sunum sonrası ekip ile poster başındaki dinamik soru-cevap seansımız </figcaption>
 </figure>
 
-Teknik tarafta ise otonom sistemlerin doğayla etkileşimi üzerine heyecan verici çalışmalar yürüttük. Özellikle ağaç dalları gibi düzensiz yapılara tüneyebilen "tendon-driven" mekanizmaların geliştirilmesi, simülasyonları ve saha testlerini gerçekleştirmek oldukça öğretici oldu.
+Konferansın sergi alanında (Exhibition) ise robotik endüstrisinin devlerini yakından tanıma şansı bulduk. Özellikle "Deep Robotics" standındaki robotik sistemler, teoride tartıştığımız birçok konunun pratikteki devasa karşılığını gösteriyordu.
 
 <figure style="text-align: center;">
-  <img src="tendon_driven.png" alt="Drone Testi" style="width:70%; margin:auto; display:block;" />
-  <figcaption>Karmaşık ortamlarda otonom tutunma testleri </figcaption>
+  <img src="deeprobotics_exhibition.jpeg" alt="Robotik Sergisi" style="width:70%; margin:auto; display:block;" />
+  <figcaption>Teknolojinin ulaştığı son nokta: Derin robotik ve otonom sistemler </figcaption>
 </figure>
 
-**Toplumsal Gözlemler ve Maneviyat**
+**Kültürel Keşif: Şanghay ve Geleneksel Çay Seremonisi**
 
-İngiltere'de geçirdiğimiz süre boyunca şehrin nabzını tutan sosyal olaylara da şahitlik ettik. Bristol halkının dünyadaki haksızlıklara karşı gösterdiği duyarlılık ve düzenlenen Filistin yürüyüşleri, adaletin evrensel bir dil olduğunu bize bir kez daha hatırlattı.
-
-Aynı zamanda inancımızı ve kültürümüzü temsil etme noktasında da güzel anlar yaşadık. Ramazan ayının gelişiyle birlikte, içerisinde bulunduğum **Flight Research Laboratory** ekibi için küçük hediye paketleri hazırladım. Ramazan'ın paylaşma ve bereket ruhunu anlatan kısa notlar eşliğinde sunduğum bu minik ikramların, çalışma arkadaşlarım arasında kurduğumuz gönül köprülerini ne denli güçlendirdiğini görmek benim için çok kıymetliydi. Farklı kültürlerin birbirini nezaketle karşıladığı bu anlar, akademik çalışmaların ötesinde insani bir derinlik kazandırdı.
+Hangzhou'daki yoğun akademik programın ardından rotamızı Şanghay'a kırdık. Şanghay, gökyüzüne uzanan modern gökdelenleri ile geleneksel Çin mimarisinin iç içe geçtiği muazzam bir kontrast sunuyor.
 
 <figure style="text-align: center;">
-  <img src="ramadan.jpeg" alt="Ramazan Paylaşımı" style="width:70%; margin:auto; display:block;" />
-  <figcaption>Flight Research Laboratory ekibi için hazırladığım Ramazan hediyeleri </figcaption>
+  <img src="shanghai-1.jpeg" alt="Şanghay Mimarisi" style="width:70%; margin:auto; display:block;" />
+  <figcaption>Geleneksel mimarinin Şanghay sokaklarındaki ihtişamı </figcaption>
 </figure>
 
-**Sonuç: Bir Yılın Muhasebesi**
+Modern Şanghay'ın dinamik yapısı, kalabalık caddeleri ve teknolojik gelişmişliği şehrin her köşesinde hissediliyor.
 
-Bu bir yıl bize sadece akademik bir unvan veya teknik bir deneyim kazandırmadı; aynı zamanda farklı bir coğrafyada aile olarak ayakta kalmanın, yeni dostluklar kurmanın ve olaylara çok daha geniş bir perspektiften bakabilmenin kapılarını açtı. Zorluklar (bürokrasi, hava durumu, başlangıçtaki belirsizlikler) elbette oldu ama hepsi birer öğrenme fırsatına dönüştü.
+<figure style="text-align: center;">
+  <img src="shanghai-2.jpeg" alt="Şanghay Şehir Merkezi" style="width:70%; margin:auto; display:block;" />
+  <figcaption>Modern Şanghay'ın bitmek bilmeyen enerjisi </figcaption>
+</figure>
 
-TÜBİTAK 2219 programı kapsamında çıktığımız bu yolculuğu, zihnimizde binlerce güzel kare ve heybemizde değerli tecrübelerle tamamlıyoruz. Bu süreçte yanımızda olan, destek veren herkese teşekkürlerimizi sunarız.
+Bu hızlı tempoya Şanghay Jiao Tong Üniversitesi bünyesindeki sanatsal değişim merkezinde kısa bir mola verdik. Katıldığımız geleneksel çay seremonisi, kaligrafi eserleri ve huzurlu ortamıyla Çin kültürünün derinliklerine yaptığımız yolculuğu taçlandırdı.
 
-Başka serüvenlerde ve paylaşımlarda buluşmak ümidiyle, sağlıcakla kalınız.
+<figure style="text-align: center;">
+  <img src="tea-party.jpeg" alt="Çay Seremonisi" style="width:70%; margin:auto; display:block;" />
+  <figcaption>Zamanın durduğu anlar: Geleneksel Çin çay seremonisi </figcaption>
+</figure>
+
+**Sonuç**
+
+İlk Çin ziyaretim, sadece teknik bir sunum değil; sunum sonrası yapılan o derin soru-cevap seanslarından Şanghay'ın mistik çay evlerine kadar uzanan bütünsel bir deneyimdi. Kendi çalışmalarımızı küresel arenada savunmak ve robotik topluluğuyla bu seviyede etkileşime girmek, gelecek hedeflerimiz için eşsiz bir rehber oldu.
+
+Yeni serüvenlerde buluşmak ümidiyle, sağlıcakla kalınız.
