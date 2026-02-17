@@ -1,5 +1,5 @@
 ---
-title: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) - Çin Günlükleri
+title: 2025 IROS - Çin Günlükleri
 summary: İlk Çin ziyaretim, Hangzhou'daki IROS 2025 konferansı ve akademik sunumlarımız; robotik teknolojilerinden Şanghay'ın büyüleyici sokaklarına bir yolculuk.
 tags:
   - IROS 2025
