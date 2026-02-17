@@ -28,14 +28,14 @@ Microsoft'un [CrowdStrike](https://www.bbc.co.uk/news/articles/cpe3zgznwjno) gü
 Kısa sayılabilecek bir süre içerisinde İngiltere'de bulunacak olsak da elhamdülillah bu süre zarfında bir düzenin kurulduğunu görmek ayrı bir tecrübe oldu. Bazen ataletlerimize inat konfor alanımızdan çıkarak sınırlarımızı olumlu yönde genişletmenin, yaratıcı tarafından önümüze nelerin ikram edileceğini bilemeyiz. Bu süreçte ailemizin duasını ve desteğini yakınen hissetmek her manada bize güç vermiştir. Ailemizin yanımıza kadar gelmesi, hem kendileri hem de bizim için unutulmaz hatıralar biriktirmemize vesile oldu.
 
 <figure style="text-align: center;">
-  <img src="wales.jpg" alt="Galler Gezisi" style="width:70%; margin:auto; display:block;" />
+  <img src="wales.jpeg" alt="Galler Gezisi" style="width:70%; margin:auto; display:block;" />
   <figcaption>Ailemizle beraber Galler/Cardiff gezimizden bir kare </figcaption>
 </figure>
 
 5 ve 7 yaşında yavrularımızın başka bir dilde eğitimlerine devam etmeleri bizleri oldukça mutlu etmektedir. Okulları [Severn Beach Primary School](https://www.severnbeachprimary.co.uk/) bünyesinde, İngiliz eğitim sisteminin disiplinli ama bir o kadar da teşvik edici yapısına şahit olduk. Dönemlerin altıya bölünmesi ve devam zorunluluğu gibi farklılıklara rağmen, çocuklarımız şu an okul dışında dahi vakit geçirecekleri arkadaşlıklar kurarak dil bariyerini aşmayı başardılar.
 
 <figure style="text-align: center;">
-  <img src="christmas.jpg" alt="Noel Pazarı" style="width:70%; margin:auto; display:block;" />
+  <img src="christmas.jpeg" alt="Noel Pazarı" style="width:70%; margin:auto; display:block;" />
   <figcaption>Yurt dışında yılın en yoğun ve ışıltılı zaman dilimi </figcaption>
 </figure>
 
@@ -44,14 +44,14 @@ Kısa sayılabilecek bir süre içerisinde İngiltere'de bulunacak olsak da elha
 Bristol Üniversitesi'nin simge yapılarından **Queen's Building**, mesaimin büyük bir kısmına ev sahipliği yaptı. Buradaki akademik kültür, sadece teknik bilgi üretmek değil, aynı zamanda o bilgiyi toplumsal bir faydaya dönüştürme vizyonu üzerine kurulu. Laboratuvar ortamındaki özgürlük ve kaynaklara erişim kolaylığı, araştırmalarımızı derinleştirmek için büyük bir şanstı.
 
 <figure style="text-align: center;">
-  <img src="queens.jpg" alt="Queen's Building" style="width:70%; margin:auto; display:block;" />
+  <img src="queens.jpeg" alt="Queen's Building" style="width:70%; margin:auto; display:block;" />
   <figcaption>University of Bristol, Queen's Building: Akademik yuvamız </figcaption>
 </figure>
 
 Teknik tarafta ise otonom sistemlerin doğayla etkileşimi üzerine heyecan verici çalışmalar yürüttük. Özellikle ağaç dalları gibi düzensiz yapılara tutunabilen "tendon-driven" mekanizmaların saha testleri, teorik simülasyonların gerçek hayattaki rüzgar ve dal esnekliği gibi değişkenlerle nasıl imtihan edildiğini gösterdi.
 
 <figure style="text-align: center;">
-  <img src="tendon_driven.jpg" alt="Drone Testi" style="width:70%; margin:auto; display:block;" />
+  <img src="tendon_driven.jpeg" alt="Drone Testi" style="width:70%; margin:auto; display:block;" />
   <figcaption>Karmaşık ortamlarda otonom tutunma testleri </figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Teknik tarafta ise otonom sistemlerin doğayla etkileşimi üzerine heyecan veri
 Aynı zamanda inancımızı ve kültürümüzü temsil etme noktasında da güzel anlar yaşadık. Ramazan ayında laboratuvar arkadaşımız Ali'nin hazırladığı küçük ikramlar ve bilgilendirme notları, farklı inançların nasıl bir saygı ve merakla karşılandığının zarif bir örneğiydi.
 
 <figure style="text-align: center;">
-  <img src="ramadan.jpg" alt="Ramazan Paylaşımı" style="width:70%; margin:auto; display:block;" />
+  <img src="ramadan.jpeg" alt="Ramazan Paylaşımı" style="width:70%; margin:auto; display:block;" />
   <figcaption>Laboratuvarda Ramazan ruhu ve kültürel etkileşim </figcaption>
 </figure>
 
